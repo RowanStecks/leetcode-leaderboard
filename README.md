@@ -1,6 +1,6 @@
 # LeetCode Leaderboard
 
-LeetCode Leaderboard uses Python and the LeetCode Graph QL API of 500+ top LeetCode users to obtain stats such as ranking, problems solved, acceptance rate, submission streaks, contest rating, primary language used and badges. Displays this information using TypeScript, React, HTML and CSS.
+LeetCode Leaderboard uses Python and the LeetCode Graph QL API to obtain stats such as ranking, problems solved, acceptance rate, submission streaks, contest rating, primary language used and badges. Displays this information using TypeScript, React, HTML and CSS. Last updated June 20, 2020.
 
 <!--This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
